@@ -1,0 +1,15 @@
+# Novela settings
+theme = "novela"
+
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/kishthetic"
+github= "https://github.com/k15han"
+linkedin= "https://www.linkedin.com/in/kishn"
+instagram = "https://instagram.com/kishthetic"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
